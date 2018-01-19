@@ -15,3 +15,10 @@ function whileLoop(n) {
 
   return 'done'
 }
+function doWhile (array) {
+    do {
+        array.length > 0}
+    while (maybeTrue());
+    
+    return array
+}
